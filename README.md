@@ -8,6 +8,10 @@ These breakouts are cheap and extremely convenient. But they have an unusual int
 - 1 meter BNC cable (75/50Ω doesn't matter, other end doesn't matter) or other 2-pin cable for voltage sense
 - 1x red, 1x black banana jack
 
+## Fabrication
+
+Grab the latest gerbers from the releases in the side panel ->
+
 ## Assembly
 
 ![picture of assembled board](./pic.jpg)
